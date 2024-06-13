@@ -148,7 +148,7 @@ export const Form = ({ className = '' }) => {
         </Button>
       </form>
 
-      <p className="smOnly:w-[290px] mx-auto mb-20 md:mb-8 text-ui_light_14 md:text-ui_light_16 md:whitespace-break-spaces">
+      <p className="smOnly:w-[290px] mx-auto mb-20 md:mb-8 text-center text-ui_light_14 md:text-ui_light_16 md:whitespace-break-spaces">
         {formTxt.agreement}
       </p>
 
